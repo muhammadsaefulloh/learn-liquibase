@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-LearnLiquibaseApplication<learn-liquibase>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.example.learnliquibase.LearnLiquibaseApplication",
+            "projectName": "learn-liquibase",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
